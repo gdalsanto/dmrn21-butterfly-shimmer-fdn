@@ -1,0 +1,3 @@
+[submodule "pyFDN"]
+	path = pyFDN
+	url = https://github.com/artificial-audio/pyFDN

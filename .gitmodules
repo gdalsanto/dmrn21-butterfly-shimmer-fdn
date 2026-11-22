@@ -1,3 +1,6 @@
 [submodule "pyFDN"]
 	path = pyFDN
 	url = https://github.com/artificial-audio/pyFDN
+[submodule "2026_ShimmerFDN_DMRN"]
+	path = 2026_ShimmerFDN_DMRN
+	url = git@github.com:gdalsanto/2026_ShimmerFDN_DMRN.git

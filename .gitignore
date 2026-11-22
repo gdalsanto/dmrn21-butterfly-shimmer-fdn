@@ -8,9 +8,6 @@ __pycache__/
 venv/
 .ipynb_checkpoints/
 
-# Audio rendered by notebooks/demo.ipynb
-notebooks/output/
-
 # Editors
 .vscode/
 .idea/
@@ -18,10 +15,3 @@ notebooks/output/
 # Dropbox
 .dropbox
 .dropbox.attr
-
-# Overleaf
-2026_ShimmerFDN_DMRN/
-matlab/
-
-# Claude 
-.claude/
